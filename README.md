@@ -16,4 +16,10 @@ QAQ
 
 ![image](https://github.com/lowliness9/secTools/blob/master/images/zoomeye.png)  
 
+4.一键子域名查询，subdomain  
+
+![image](https://github.com/lowliness9/secTools/blob/master/images/subdomain.png)  
+
+
+
 
